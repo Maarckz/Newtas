@@ -22,9 +22,6 @@ Um ambiente de desafios de segurança web estilo OverTheWire/Natas, com 33 níve
 # Atualize o sistema
 sudo apt update && sudo apt upgrade -y
 
-# Instale dependências
-sudo apt install -y git apache2 php-fpm libapache2-mod-fcgid
-
 # Clone o repositório
 git clone https://github.com/seu-usuario/newtas-wargame.git
 cd newtas-wargame
