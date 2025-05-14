@@ -88,6 +88,6 @@ Contribuições são bem-vindas! Siga os passos:
 Distribuído sob licença MIT. Veja `LICENSE` para mais detalhes.
 
 ## ✉ Contato
-Seu Nome - [@seu_twitter](https://twitter.com/seu_perfil) - email@example.com
+https://maarckz.github.io
 
 _Projeto inspirado no Natas (OverTheWire.org)_
