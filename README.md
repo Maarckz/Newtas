@@ -96,19 +96,3 @@ Seu Nome - [@seu_twitter](https://twitter.com/seu_perfil) - email@example.com
 _Projeto inspirado no Natas (OverTheWire.org)_
 ```
 
-Este README inclui:
-1. Badge de licença profissional
-2. Seções de instalação claras
-3. Formatação para melhor legibilidade
-4. Tabelas de troubleshooting
-5. Instruções de contribuição
-6. Compatibilidade com markdown do GitHub
-
-Para usar:
-1. Crie um arquivo `LICENSE` com o texto da licença MIT
-2. Ajuste as seções de contato e URLs
-3. Adicione screenshots na pasta `images/` se desejar
-4. Atualize as referências ao seu usuário do GitHub
-
-Você pode ver um exemplo visualizado aqui:  
-[Markdown Preview](https://markdownlivepreview.com/)
