@@ -5,7 +5,7 @@
 Um ambiente de desafios de segurança web estilo OverTheWire/Natas, com 33 níveis progressivos de dificuldade.
 
 ## 📋 Recursos
-- 34 tiers (níveis) isolados
+- 33 tiers (níveis) isolados
 - Autenticação Basic Auth por nível
 - Isolamento completo entre níveis
 - Geração automática de senhas
@@ -15,7 +15,7 @@ Um ambiente de desafios de segurança web estilo OverTheWire/Natas, com 33 níve
 ## 🚀 Instalação
 
 ### Pré-requisitos
-- Ubuntu 24.04 LTS
+- Linux (ubuntu)
 - Acesso root/sudo
 
 ```bash
