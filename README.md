@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Um ambiente de desafios de segurança web estilo OverTheWire/Natas, com 34 níveis progressivos de dificuldade.
+Um ambiente de desafios de segurança web estilo OverTheWire/Natas, com 33 níveis progressivos de dificuldade.
 
 ## 📋 Recursos
 - 34 tiers (níveis) isolados
@@ -94,5 +94,3 @@ Distribuído sob licença MIT. Veja `LICENSE` para mais detalhes.
 Seu Nome - [@seu_twitter](https://twitter.com/seu_perfil) - email@example.com
 
 _Projeto inspirado no Natas (OverTheWire.org)_
-```
-
